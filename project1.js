@@ -167,6 +167,7 @@ cancel.onclick = function () {
   count.style.display = "block";
   create.innerHTML = "Create";
   btnMood = "create";
+  getTotal();
 };
 /////////////////////////////////////////////////////////////////////
 //search

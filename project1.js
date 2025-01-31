@@ -86,6 +86,7 @@ function clearInputs() {
   price.value = "";
   taxes.value = "";
   ads.value = "";
+  discount.value = "";
   count.value = "";
   category.value = "";
   total.innerHTML = "";
